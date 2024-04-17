@@ -1,6 +1,6 @@
 ### Hello there! I'm Gustavo Romero Oláez 👋
 - 👋 Hi, I’m Gustavo Romero Oláez
-- 👀 I’m interested in sports, lecture and some music genders such as blues and rock also I am a greaf fan of GOT.
+- 👀 I’m interested in sports, lecture and some music genders such as blues and rock also I am a great fan of GOT.
 - 🌱 I’m currently learning web development
 - 📫 You to reach me on my social media with my email. gusog.r.o.87@gmail.com
 
